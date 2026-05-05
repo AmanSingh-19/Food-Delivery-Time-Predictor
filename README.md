@@ -83,3 +83,30 @@ The Random Forest model achieved strong predictive performance and provided reli
 ---
 
 ## 📁 Project Structure
+├── data/
+├── notebooks/
+├── model/
+├── app/
+├── README.md
+
+
+---
+
+## 🧑‍💻 Author
+Aman Singh  
+B.Tech CSE (Data Science)  
+
+---
+
+## ⭐ Acknowledgements
+- Kaggle for dataset
+- Open-source libraries (Scikit-learn, Pandas, etc.)
+
+---
+
+## 📌 How to Run
+```bash
+git clone https://github.com/your-username/food-delivery-time-prediction.git
+cd food-delivery-time-prediction
+pip install -r requirements.txt
+python main.py
